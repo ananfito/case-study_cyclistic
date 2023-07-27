@@ -8,11 +8,11 @@ This project will analyze publicly available datasets, provided by the course, f
 
 ## Contents 
 
-- [Summary](#Summary)
-  - [Tools and Techniques](#Tools-and-Techniques)
-  - [Recommendations](#Recommendations)
-- [Full Case Study](#Full-Case-Study)
-- [Contact](#Contact)
+- [Summary](#summary)
+  - [Tools and Techniques](#tools-and-techniques)
+  - [Recommendations](#recommendations)
+- [Full Case Study](#full-case-study)
+- [Contact](#contact)
 
 ## Summary 
 
