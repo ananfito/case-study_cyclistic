@@ -35,7 +35,7 @@ The following analysis makes use of the following tools and techniques:
 - Data inspection: removal of duplicate/unnessary data, change format/datatype, verify unique values
 
 ### Recommendations
-The analysis yielded the following recommendations:
+Based on the analysis, here are the recommendations:
 
 - Partner with local venues
 - Discounts on membership outside peak usage time
