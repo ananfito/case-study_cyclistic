@@ -35,6 +35,11 @@ The following analysis makes use of the following tools and techniques:
 - Data inspection: removal of duplicate/unnessary data, change format/datatype, verify unique values
 
 ### Recommendations
+The analysis yielded the following recommendations:
+
+- Partner with local venues
+- Discounts on membership outside peak usage time
+- Focus on venues near start/end locations 
 
 The analysis yielded some key differences between member and casual riders of the Cyclistic bike share service. Most notably were the peak times and durations when casual riders use the service versus when member riders use the service. This led to the following recommendations outlined below. 
 
